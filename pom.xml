@@ -9,7 +9,7 @@
 	<packaging>war</packaging>
 
 	<name>Premium-Generator-API</name>
-	<description>health-insurance-premium-quote-generator</description>
+	<description>health-insurance-premium-quote-generaor</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
